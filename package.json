@@ -1,0 +1,12 @@
+{
+  "name": "es6-example",
+  "version": "1.0.0",
+  "description": "see (es6-cheatsheet)[https://github.com/DrkSephy/es6-cheatsheet/blob/master/README_zhCn.md]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John <wujunchuan1994@hotmail.com>",
+  "license": "ISC"
+}
